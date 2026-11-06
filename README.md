@@ -26,7 +26,7 @@ To run straight from the project instead: `make` and then `./.build/release/korr
 
 ## Global shortcut
 
-The point of the app: select text in any app — Mail, Outlook, Teams, Word, a browser, APAX — press
+The point of the app: select text in any app — Mail, Outlook, Teams, Word, a browser — press
 the shortcut, and the selection is corrected in place.
 
 1. Open **Korrektor → Settings…** (`⌘,`)
